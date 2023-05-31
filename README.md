@@ -33,6 +33,10 @@ I am a recent Computer Science graduate and an aspiring developer
 <p align="left"> <a href="https://www.linkedin.com/in/tianqq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p><a href="https://www.instagram.com/tianqq_/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="32" height="32" /></a> </p><a href="https://www.youtube.com/@tianqq_/videos" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/1009/93/png-transparent-youtube-computer-icons-logo-youtube-angle-social-media-share-icon.png" width="32" height="32" /></a> </p>
 
 
+<p align="left">
+<a href="https://www.linkedin.com/in/tianqq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn tianqq" /><a/a> &nbsp; <a href="https://www.instagram.com/tianqq_/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="36" height="36" alt="Instagram tianqq_" /></a> &nbsp;
+<a href="https://www.youtube.com/@tianqq_/videos" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" width="36" height="36" alt="YouTube tianqq" /></a> 
+
 // add youtube, instagram, photography website
 // add gymgoer cinematographer photographer 
 //icons: lightroom, photoshop, premiere, davinci
