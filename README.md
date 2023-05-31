@@ -23,7 +23,7 @@ I am a recent Computer Science graduate and an aspiring developer
 
 ### Editing
 
-<a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;<img src="img/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="36" height="36">  &nbsp;<img src="img/Adobe_Premiere_Pro_CC_icon.svg.png" width="36" height="36">  &nbsp;<img src="img/png-transparent-davinci-resolve-macos-bigsur-icon-thumbnail.png" width="36" height="36">
+<a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;<img src="img/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="36" height="36">  &nbsp;<img src="img/Adobe_Premiere_Pro_CC_icon.svg.png" width="36" height="36">  &nbsp;<img src="img/aadsfasdfadsf.jpeg" width="36" height="36">
 
 ### Socials
 
