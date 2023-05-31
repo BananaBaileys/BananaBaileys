@@ -37,6 +37,8 @@ I am a recent Computer Science graduate and an aspiring developer
 
 ![lr pic](img/Adobe_Photoshop_Lightroom_CC_logo.svg.png =36x36)
 
+<img src="img/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="36" height="36">
+
 
 
 ### Socials
