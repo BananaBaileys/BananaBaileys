@@ -1,13 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tian Qiu
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tian Qiu
 ========================================================================================================================================
 
 I am a recent Computer Science graduate and an aspiring developer.
 --------------------------
 
 *   🌍  I'm based in Toronto, Canada
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://www.vosp.us/wp-content/uploads/Under.jpg'>Portfolio (under construction</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://www.vosp.us/wp-content/uploads/Under.jpg'>Portfolio </a>(under construction)
 *   🧠  Currently learning Node.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
+*   📸  Fun fact: I love <a target="_blank" rel="noreferrer" href='https://www.tianqqphotography.com/'>photography and pumping iron 💪 
 
 ### Skills
 
@@ -20,3 +21,7 @@ I am a recent Computer Science graduate and an aspiring developer.
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/tianqq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+
+
+// add youtube, instagram, photography website
+// add gymgoer cinematographer photographer 
