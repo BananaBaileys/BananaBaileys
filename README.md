@@ -37,6 +37,9 @@ I am a recent Computer Science graduate and an aspiring developer
 
 ![lr pic](Adobe_Photoshop_Lightroom_CC_logo.svg.png)
 
+
+![lr2pic](img/lr-img.svg)
+
 ### Socials
 
 <p align="left">
