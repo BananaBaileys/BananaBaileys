@@ -23,23 +23,7 @@ I am a recent Computer Science graduate and an aspiring developer
 
 ### Editing
 
-<a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;
-<a href="https://www.adobe.com/ca/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="==========" width="36" height="36" alt="Lightroom" /></a> &nbsp;
-<a href="https://www.adobe.com/ca/products/premiere.html" target="_blank" rel="noreferrer"><img src="==========" width="36" height="36" alt="Premiere Pro" /></a> &nbsp;
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="==========" width="36" height="36" alt="DaVinci Resolve" /></a> 
-
-[![website](./img/lr-img.svg)](hhttps://www.adobe.com/ca/products/photoshop-lightroom.html#gh-light-mode-only)
-[![website](./img/lr-img.svg)](https://www.adobe.com/ca/products/photoshop-lightroom.html#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-![lr pic](img/Adobe_Photoshop_Lightroom_CC_logo.svg.png =36x36)
-
-<img src="img/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="36" height="36">
-
-
+<a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;<img src="img/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="36" height="36">  &nbsp;<img src="img/Adobe_Premiere_Pro_CC_icon.svg.png" width="36" height="36">  &nbsp;<img src="img/png-transparent-davinci-resolve-macos-bigsur-icon-thumbnail.png" width="36" height="36">
 
 ### Socials
 
