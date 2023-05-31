@@ -35,7 +35,7 @@ I am a recent Computer Science graduate and an aspiring developer
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-![lr pic](img/Adobe_Photoshop_Lightroom_CC_logo.svg.png)
+![lr pic](img/Adobe_Photoshop_Lightroom_CC_logo.svg.png =36x36)
 
 
 
