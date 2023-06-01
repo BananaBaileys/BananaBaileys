@@ -28,5 +28,5 @@ I am a recent Computer Science graduate and an aspiring developer
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tianqq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn tianqq" /><a/a> &nbsp; <a href="https://www.instagram.com/tianqq_/?hl=en" target="_blank" rel="noreferrer"><img src="img/Instagram_icon.png" width="36" height="36" alt="Instagram tianqq_" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/tianqq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn tianqq" /><a/a> &nbsp; <a href="https://www.instagram.com/tianqq_/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="36" height="36" alt="Instagram tianqq_" /></a> &nbsp;
 <a href="https://www.youtube.com/@tianqq_/videos" target="_blank" rel="noreferrer"><img src="img/youtubeicon.png" width="36" alt="YouTube tianqq" /></a> 
